@@ -1,0 +1,14 @@
+C:\Users\fsqum\source\repos\HumanProject\bin\Debug\HumanProject.exe.config
+C:\Users\fsqum\source\repos\HumanProject\bin\Debug\HumanProject.exe
+C:\Users\fsqum\source\repos\HumanProject\bin\Debug\HumanProject.pdb
+C:\Users\fsqum\source\repos\HumanProject\obj\Debug\HumanProject.Form1.resources
+C:\Users\fsqum\source\repos\HumanProject\obj\Debug\HumanProject.Properties.Resources.resources
+C:\Users\fsqum\source\repos\HumanProject\obj\Debug\HumanProject.csproj.GenerateResource.cache
+C:\Users\fsqum\source\repos\HumanProject\obj\Debug\HumanProject.csproj.CoreCompileInputs.cache
+C:\Users\fsqum\source\repos\HumanProject\obj\Debug\HumanProject.exe
+C:\Users\fsqum\source\repos\HumanProject\obj\Debug\HumanProject.pdb
+C:\Users\fsqum\source\repos\HumanProject\obj\Debug\HumanProject.HomePage.resources
+C:\Users\fsqum\source\repos\HumanProject\obj\Debug\HumanProject.CreateAccount.resources
+C:\Users\fsqum\source\repos\HumanProject\obj\Debug\HumanProject.ribeyeSteakControl.resources
+C:\Users\fsqum\source\repos\HumanProject\obj\Debug\HumanProject.BurgerControl.resources
+C:\Users\fsqum\source\repos\HumanProject\obj\Debug\HumanProject.csproj.AssemblyReference.cache
